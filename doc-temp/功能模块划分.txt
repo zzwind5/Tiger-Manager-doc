@@ -1,0 +1,20 @@
+WEB
+	MVC 框架
+	用户 和 VHM 管理
+	Configuration 个配置页面
+	Monitor Page 各种监控
+	System 系统全局设置和系统监控
+	Tools 远程调试AP,比如发一些CLI到AP
+BE
+	消息调度模块
+	Cache (总缓存)
+	Scheduler（定时任务）
+	Capwap
+	Configuration
+	Log
+	Monitor
+	Backup and Restore
+	
+CentOS
+	安装部署升级
+	一些SHELL脚本
